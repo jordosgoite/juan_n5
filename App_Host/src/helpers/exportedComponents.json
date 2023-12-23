@@ -1,0 +1,8 @@
+{
+  "./StyledButton": "./src/components/UI_Elements/StyledButton",
+  "./StyledFlexContainer": "./src/components/UI_Elements/StyledFlexContainer",
+  "./StyledItemContainer": "./src/components/UI_Elements/StyledItemContainer",
+  "./StyledTitle": "./src/components/UI_Elements/StyledTitle",
+  "./StyledMainContainer": "./src/components/UI_Elements/StyledMainContainer",
+  "./StyledText": "./src/components/UI_Elements/StyledText"
+}
