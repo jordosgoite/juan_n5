@@ -8,6 +8,9 @@ import { themeOption } from "../../helpers/constants";
 const StyledItemGeneral = styled.div`
   width: 33%;
   text-align: center;
+  @media (max-width: 768px) {
+    width: 50%;
+  }
 `;
 
 

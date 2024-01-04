@@ -10,6 +10,7 @@ const StyledButtonGeneral = styled.button`
   background-color: transparent;
   font-family: "Arial";
   padding: 10px;
+  margin-left: 15px;
   &:hover {
     background-color: #f0f2f5;
   }

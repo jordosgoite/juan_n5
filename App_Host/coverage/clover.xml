@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1704257345040" clover="3.2.0">
+  <project timestamp="1704257345040" name="All files">
+    <metrics statements="71" coveredstatements="26" conditionals="18" coveredconditionals="0" methods="24" coveredmethods="0" elements="113" coveredelements="26" complexity="0" loc="71" ncloc="71" packages="4" files="16" classes="16"/>
+    <package name="src">
+      <metrics statements="23" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="App.jsx" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\App.jsx">
+        <metrics statements="18" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="entry.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\entry.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="i18n.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\i18n.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\index.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="Header.jsx" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\Header.jsx">
+        <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.UI_Elements">
+      <metrics statements="37" coveredstatements="19" conditionals="14" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="StyledButton.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledButton.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="StyledDropdown.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledDropdown.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="StyledFlexContainer.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledFlexContainer.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+      <file name="StyledImage.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledImage.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="StyledItemContainer.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledItemContainer.js">
+        <metrics statements="3" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="StyledMainContainer.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledMainContainer.js">
+        <metrics statements="5" coveredstatements="4" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="StyledSimpleContainer.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledSimpleContainer.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="StyledSubtitle.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledSubtitle.js">
+        <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="StyledText.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledText.js">
+        <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="StyledTitle.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\components\UI_Elements\StyledTitle.js">
+        <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="src.helpers">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.js" path="C:\Users\jordo\Desktop\juan_n5\App_Host\src\helpers\constants.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

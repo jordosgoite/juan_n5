@@ -7,6 +7,7 @@ import StyledTitle from "./UI_Elements/StyledTitle";
 import StyledDropdown from "./UI_Elements/StyledDropdown";
 import StyledFlexContainer from "./UI_Elements/StyledFlexContainer";
 import StyledMainContainer from "./UI_Elements/StyledMainContainer";
+import StyledSimpleContainer from "./UI_Elements/StyledSimpleContainer";
 
 const Header = ({ selectSerie }) => {
   const { t, i18n } = useTranslation();
@@ -27,14 +28,14 @@ const Header = ({ selectSerie }) => {
       <StyledFlexContainer>
         <StyledSubtitle>{t("header_text")}</StyledSubtitle>
       </StyledFlexContainer>
-      <StyledFlexContainer>
+      <StyledSimpleContainer>
         <StyledButton onClick={() => selectSerie(mySeries[0].name)}>
           {mySeries[0].name}
         </StyledButton>
         <StyledButton onClick={() => selectSerie(mySeries[1].name)}>
           {mySeries[1].name}
         </StyledButton>
-      </StyledFlexContainer>
+      </StyledSimpleContainer>
     </StyledMainContainer>
   );
 };
